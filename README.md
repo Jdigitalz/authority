@@ -1,4 +1,4 @@
-
+# Authority
 A simple multi-use payload generator and handler creator.
 
 ## Table of Contents
@@ -16,11 +16,3 @@ To install Authority, clone the repository and run the setup script:
 git clone https://github.com/Jdigitalz/authority.git
 cd authority
 python setup.py install
-
-## Usage
-
-```bash 
-authority
-
-## Screenshots
-
