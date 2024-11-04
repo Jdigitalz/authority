@@ -18,7 +18,7 @@ host_port =
 s.bind((host_ip, host_port)) 
 
 def main():
-    print(f"server listening on {host_port}:{host_port}")
+    print(f"server listening on {host_ip}:{host_port}")
     try:
         s.listen(1) 
         client, ip = s.accept()
