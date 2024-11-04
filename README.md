@@ -24,10 +24,10 @@ authority
 This project is still in working progress so many major bugs still exists(like not being able to use interactive apps like vim or sudo while in the reverse shell)
 
 ## Screenshots
-![image_alt][https://github.com/Jdigitalz/authority/blob/main/Screenshots/main_menu.png?raw=true]
+![image_alt](https://github.com/Jdigitalz/authority/blob/main/Screenshots/main_menu.png?raw=true)
 
-![image_alt][https://github.com/Jdigitalz/authority/blob/main/Screenshots/handler_menu.png?raw=true]
+![image_alt](https://github.com/Jdigitalz/authority/blob/main/Screenshots/handler_menu.png?raw=true)
 
-![image_alt][https://github.com/Jdigitalz/authority/blob/main/Screenshots/action.png?raw=true]
+![image_alt](https://github.com/Jdigitalz/authority/blob/main/Screenshots/action.png?raw=true)
 
 
