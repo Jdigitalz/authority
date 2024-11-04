@@ -14,7 +14,7 @@ To install Authority, clone the repository and run the setup script:
 ```bash
 git clone https://github.com/Jdigitalz/authority.git
 cd authority
-python setup.py install
+sudo python setup.py install
 ```
 ## Usage
 ```bash
